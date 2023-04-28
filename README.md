@@ -1,15 +1,19 @@
 # coding-canvas
 
-##Description
+## Description:
 This project showcases my journey as a full-stack developer. It is designed to demonstrate how my knowledge of HTML, CSS, and JavaScript has evolved over time, as evidenced by my completed projects. My goal is to share my coding canvas with future employers and show them what I am capable of.
 
 Throughout the course of this project, I have encountered many challenges and frustrations. However, I have been able to overcome these obstacles and improve my skills by applying the concepts and techniques I learned during the first two weeks of the bootcamp. I am excited to continue learning and growing as a developer, and I look forward to sharing my future projects with employers.
 
 Table of Contents
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+
+## Usage
 
 In order to navigate this webpage, simply access the navigation bar and click on any of the following navigation links: About Me, Work, Resume, and Contact. The navigation links will direct you to the related section.
 
@@ -17,7 +21,8 @@ https://hexd9.github.io/coding-canvas/
 
 ![screenshot of my project](./assets/images/hexd9.github.io_coding-canvas_.png)
 
-Credits
+## Credits
+
 Collaborators: Learning Assist: Ruben Ruiz, Shawn Littrel (teacher aid)
 
 -I used this page as a reference for my HTML. https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
@@ -27,7 +32,8 @@ Collaborators: Learning Assist: Ruben Ruiz, Shawn Littrel (teacher aid)
 -I referenced all of our class activities to style my css sheet: https://git.bootcampcontent.com/University-of-California---Los-Angeles/UCLA-VIRT-FSF-PT-04-2023-U-LOLC/-/tree/main/02-Advanced-CSS/01-Activities
 -I used the emojipedia website to get the telephone emoji: https://emojipedia.org/apple/
 
-License
+## License
+
 MIT License
 
 Copyright (c) [2023] [HectorDelgado]
@@ -38,8 +44,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Badges
+## Badges
 ![badge](https://img.shields.io/badge/hexd9%2Fmodule--2-coding%2Fcanvas-brightgreen)
 
-Features
+## Features
 Included alt attribute to images to improve accessibility functions, added pseudo elements,active links, and a bitmoji.
