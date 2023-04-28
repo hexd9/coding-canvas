@@ -29,9 +29,9 @@ body {
   display: block;
   font-size: 48px;
 }
-
+/*Navigation Section */
 nav {
-  
+    
   margin-right: 5px;
   float: right;
   font-family: var(--font-family);
@@ -45,8 +45,7 @@ nav ul {
 }
 
 nav ul li {
-  display: inline-flex;
-  flex-wrap: wrap;
+  display: inline-block;
   margin-left: 50px;
 }
 
@@ -71,6 +70,7 @@ a {
 
 .header-h2 {
   font-size: 80px;
+  text-decoration: underline;
   margin-bottom: 20px;
   padding: 40px;
   color: var(--content-font-color);
@@ -82,8 +82,7 @@ p {
 
 /* UL project list styles */
 .project-list {
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
   justify-content: space-between;
 }
 
@@ -102,8 +101,8 @@ p {
 }
 
 .canvas-img {
-  width: 1000px;
-  height: 700px;
+  width: 100%;
+  object-fit: contain;
 }
 
 .footer {
@@ -138,12 +137,35 @@ p {
   text-align: center;
 }
 
-.contact-info {
+.info {
   font-size: 20px;
   font-weight: bold;
   color: #01354f;
 }
 
 h3::after {
-    content: "☎️📧";
+  content: "☎️📧";
 }
+
+
+/* Tablets - header changes color */
+@media screen and (max-width: 992px) {
+    .header {
+      background: #772014;
+    }
+  }
+  
+  /* Large smartphones - navbar changes color */
+  @media screen and (max-width: 768px) {
+    nav {
+      background-color: #bb8588;
+    }
+  }
+  
+  /* Small smartphones - image placeholders change color */
+  @media screen and (max-width: 576px) {
+    .background {
+      background-color: #c83c04;
+    }
+  }
+  
