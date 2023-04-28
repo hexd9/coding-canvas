@@ -5,7 +5,7 @@ This project showcases my journey as a full-stack developer. It is designed to d
 
 Throughout the course of this project, I have encountered many challenges and frustrations. However, I have been able to overcome these obstacles and improve my skills by applying the concepts and techniques I learned during the first two weeks of the bootcamp. I am excited to continue learning and growing as a developer, and I look forward to sharing my future projects with employers.
 
-Table of Contents
+## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
