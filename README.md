@@ -1,15 +1,16 @@
 # coding-canvas
 
-Description
+##Description
 This project showcases my journey as a full-stack developer. It is designed to demonstrate how my knowledge of HTML, CSS, and JavaScript has evolved over time, as evidenced by my completed projects. My goal is to share my coding canvas with future employers and show them what I am capable of.
 
 Throughout the course of this project, I have encountered many challenges and frustrations. However, I have been able to overcome these obstacles and improve my skills by applying the concepts and techniques I learned during the first two weeks of the bootcamp. I am excited to continue learning and growing as a developer, and I look forward to sharing my future projects with employers.
 
 Table of Contents
-Usage
-Credits
-License
-Usage
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 In order to navigate this webpage, simply access the navigation bar and click on any of the following navigation links: About Me, Work, Resume, and Contact. The navigation links will direct you to the related section.
 
 https://hexd9.github.io/coding-canvas/
