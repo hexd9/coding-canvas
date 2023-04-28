@@ -75,7 +75,7 @@ a {
   padding: 40px;
   color: var(--content-font-color);
 }
-
+/* Added pseduo element to increase paragraph text size upon hover */
 p:hover {
   display: block;
   font-size: 30px;
@@ -83,7 +83,9 @@ p:hover {
 
 /* UL project list styles */
 .project-list {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
   justify-content: space-between;
 }
 
