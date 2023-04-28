@@ -29,9 +29,9 @@ body {
   display: block;
   font-size: 48px;
 }
+
 /*Navigation Section */
 nav {
-    
   margin-right: 5px;
   float: right;
   font-family: var(--font-family);
@@ -39,8 +39,8 @@ nav {
 }
 
 nav ul {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
 }
 
@@ -76,8 +76,9 @@ a {
   color: var(--content-font-color);
 }
 
-p {
+p:hover {
   display: block;
+  font-size: 30px;
 }
 
 /* UL project list styles */
@@ -147,25 +148,23 @@ h3::after {
   content: "☎️📧";
 }
 
-
 /* Tablets - header changes color */
 @media screen and (max-width: 992px) {
-    .header {
-      background: #772014;
-    }
+  .header {
+    background: #772014;
   }
-  
-  /* Large smartphones - navbar changes color */
-  @media screen and (max-width: 768px) {
-    nav {
-      background-color: #bb8588;
-    }
+}
+
+/* Large smartphones - navbar changes color */
+@media screen and (max-width: 768px) {
+  nav {
+    background-color: #bb8588;
   }
-  
-  /* Small smartphones - image placeholders change color */
-  @media screen and (max-width: 576px) {
-    .background {
-      background-color: #c83c04;
-    }
+}
+
+/* Small smartphones - image placeholders change color */
+@media screen and (max-width: 576px) {
+  .background {
+    background-color: #c83c04;
   }
-  
+}
