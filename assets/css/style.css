@@ -117,7 +117,7 @@ p:hover {
 
 .footer {
   padding: 20px;
-  background-color: #2a607c;
+  background-color: var(--background-content-color);
   color: var(--content-font-color);
   text-align: center;
 }

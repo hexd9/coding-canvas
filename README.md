@@ -1,6 +1,7 @@
 # coding-canvas
 
 ## Description:
+
 This project showcases my journey as a full-stack developer. It is designed to demonstrate how my knowledge of HTML, CSS, and JavaScript has evolved over time, as evidenced by my completed projects. My goal is to share my coding canvas with future employers and show them what I am capable of.
 
 Throughout the course of this project, I have encountered many challenges and frustrations. However, I have been able to overcome these obstacles and improve my skills by applying the concepts and techniques I learned during the first two weeks of the bootcamp. I am excited to continue learning and growing as a developer, and I look forward to sharing my future projects with employers.
@@ -18,6 +19,10 @@ Throughout the course of this project, I have encountered many challenges and fr
 In order to navigate this webpage, simply access the navigation bar and click on any of the following navigation links: About Me, Work, Resume, and Contact. The navigation links will direct you to the related section.
 
 https://hexd9.github.io/coding-canvas/
+
+Updated Portfolio
+
+![screenshot of my project](./assets/images/UpdatedCodingCanvas.png)
 
 ![screenshot of my project](./assets/images/hexd9.github.io_coding-canvas_.png)
 
@@ -45,7 +50,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Badges
+
 ![badge](https://img.shields.io/badge/hexd9%2Fmodule--2-coding%2Fcanvas-brightgreen)
 
 ## Features
+
 Included alt attribute to images to improve accessibility functions, added pseudo elements,active links, and a bitmoji.
